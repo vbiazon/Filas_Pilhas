@@ -1,0 +1,6 @@
+﻿  Fila.cpp
+  Filas_Pilhas.cpp
+  Gerando Código...
+  C:\Users\1545 IRON V4\source\repos\Filas_Pilhas\Filas_Pilhas\Fila.cpp(66) : warning C4715: 'Fila::Dequeue': nem todos os caminhos de controle retornam um valor
+  C:\Users\1545 IRON V4\source\repos\Filas_Pilhas\Filas_Pilhas\Fila.cpp(24) : warning C4715: 'Fila::ValorFrente': nem todos os caminhos de controle retornam um valor
+  Filas_Pilhas.vcxproj -> C:\Users\1545 IRON V4\source\repos\Filas_Pilhas\Debug\Filas_Pilhas.exe
